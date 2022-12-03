@@ -1,5 +1,6 @@
 <template>
   <div><h4>Hello modification</h4></div>
+  <div><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet animi debitis eaque est iste natus quos tenetur! Blanditiis corporis dolorem impedit, ipsam itaque quod reprehenderit. Consequuntur eum mollitia quibusdam rem?</p></div>
   <v-form>
     <v-container>
       <v-row>
