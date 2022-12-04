@@ -12,6 +12,7 @@
     <h6>text by saad</h6>
 
 <div>modification by osm from webstorm</div>
+<div>modification by osm from webstorm 2</div>
     jhkjkjhkjhkjhkjhkjhkjhkjhkjh
   </div>
   <v-form>
